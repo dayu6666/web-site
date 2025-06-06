@@ -1,0 +1,50 @@
+{
+  "title": "大鱼软件服务管理",
+  "description": "大鱼软件服务管理公司的官方网站",
+  "nav": {
+    "home": "首页",
+    "about": "公司介绍",
+    "services": "合作事宜",
+    "contact": "联系我们"
+  },
+  "hero": {
+    "title": "让软件服务管理，如鱼得水。",
+    "description": "大鱼软件服务管理，专注于为企业提供软件服务管理解决方案，助力客户提升效率、降低成本、保障安全，实现业务敏捷与创新。",
+    "cta": "了解我们的解决方案"
+  },
+  "features": {
+    "title": "我们的优势",
+    "deepValue": {
+      "title": "深潜价值",
+      "description": "不止于表面运维，深度优化流程，挖掘软件服务最大价值。"
+    },
+    "efficiency": {
+      "title": "效率跃升",
+      "description": "自动化、标准化流程，显著提升服务交付速度与响应效率。"
+    },
+    "costControl": {
+      "title": "成本掌控",
+      "description": "精细化管理资源，优化许可证使用，有效控制IT成本。"
+    },
+    "security": {
+      "title": "安全护航",
+      "description": "构建稳健的服务管理体系，保障业务连续性与数据安全。"
+    },
+    "agility": {
+      "title": "敏捷赋能",
+      "description": "支持快速迭代与创新，让业务灵活应对市场变化。"
+    },
+    "experience": {
+      "title": "经验领航",
+      "description": "拥有资深专家团队，深谙行业最佳实践与挑战。"
+    }
+  },
+  "theme": {
+    "light": "明亮模式",
+    "dark": "暗黑模式"
+  },
+  "language": {
+    "zh": "中文",
+    "en": "English"
+  }
+} 

@@ -1,0 +1,50 @@
+{
+  "title": "DaYu Software Service Management",
+  "description": "Official website of DaYu Software Service Management Company",
+  "nav": {
+    "home": "Home",
+    "about": "About Us",
+    "services": "Services",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title": "Making Software Service Management Flow Like Water.",
+    "description": "DaYu Software Service Management focuses on providing software service management solutions for enterprises, helping customers improve efficiency, reduce costs, ensure security, and achieve business agility and innovation.",
+    "cta": "Learn About Our Solutions"
+  },
+  "features": {
+    "title": "Our Advantages",
+    "deepValue": {
+      "title": "Deep Value",
+      "description": "Beyond surface operations, deeply optimize processes to extract maximum value from software services."
+    },
+    "efficiency": {
+      "title": "Enhanced Efficiency",
+      "description": "Automated, standardized processes significantly improve service delivery speed and response efficiency."
+    },
+    "costControl": {
+      "title": "Cost Control",
+      "description": "Fine-grained resource management, optimized license usage, effective IT cost control."
+    },
+    "security": {
+      "title": "Security Protection",
+      "description": "Build robust service management systems to ensure business continuity and data security."
+    },
+    "agility": {
+      "title": "Agile Enablement",
+      "description": "Support rapid iteration and innovation, enabling businesses to flexibly respond to market changes."
+    },
+    "experience": {
+      "title": "Experience Leadership",
+      "description": "Possess a team of senior experts who understand industry best practices and challenges."
+    }
+  },
+  "theme": {
+    "light": "Light Mode",
+    "dark": "Dark Mode"
+  },
+  "language": {
+    "zh": "中文",
+    "en": "English"
+  }
+} 
